@@ -12,3 +12,4 @@ i'm An Information Technology student at ITS with a deep interest in Web & Mobil
 ![](https://streak-stats.demolab.com/?user=mikaillauranaotwsukses&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mikaillauranaotwsukses&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://raw.githubusercontent.com/mikaillauranaotwsukses/mikaillauranaotwsukses/output/dist/snake-dark.svg)
