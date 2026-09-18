@@ -45,6 +45,7 @@ i'm An Information Technology student at ITS with a deep interest in Web & Mobil
 - 🧠 Peserta OSN-K Informatika (2025)
 
 </details>
+
 ## 🌍 Languages:
 English (TOEIC 870, TEFL 550) · Bahasa Indonesia (Native)
 
